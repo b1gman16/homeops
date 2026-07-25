@@ -1,0 +1,14 @@
+{
+  "socketPath": "/tmp/mcp-tVdfrf/mcp.sock",
+  "scheme": "unix",
+  "headers": {
+    "Authorization": "Nonce 4fd3ab2c-9acb-4238-9f8a-ee50579b0dda"
+  },
+  "pid": 2273,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1784961316324,
+  "workspaceFolders": [
+    "/home/ren/backend/app"
+  ],
+  "isTrusted": true
+}
